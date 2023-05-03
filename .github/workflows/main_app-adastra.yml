@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'APP-ADASTRA'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FCBCE3C8FCE439EA2AAC28781BFA27D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4950B33A12E4232BE6A11B2C57EA27F }}
           package: '*.jar'
